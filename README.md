@@ -102,4 +102,4 @@ class IndexController extends AbstractActionController
 
 ## Directories and the Result
 
-![](zend.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/Zend-MVC/master/Illustrations/zend.PNG)
